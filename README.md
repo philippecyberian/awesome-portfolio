@@ -1,7 +1,8 @@
 # Professional
-https://github.com/Distributive-Network/PythonMonkey -> https://github.com/philippedistributive  
+https://github.com/Distributive-Network/PythonMonkey -> https://github.com/philippedistributive
+https://gitlab.com/Distributed-Compute-Protocol/dcp-native/-/tree/android-worker/targets/installer/generators/android/DCPWorker
 https://github.com/eBay/WearCrashReporter            -> https://github.com/philippelaporte11  
-https://github.com/philippelaporteproduct        
+https://github.com/philippelaporteproduct
 
 # Academic
 https://github.com/philippelaporteconcordia  
